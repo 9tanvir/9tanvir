@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanvir
-- 👀 I’m interested in AI and making some immpactful projects
+- 👀 I’m interested in AI and making some immpactful Business projects
 - 🌱 I’m currently learning Data Structures in C and OOPsin Java and Python Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tanvirkanoje9@gmail.com
